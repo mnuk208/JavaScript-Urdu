@@ -1,2 +1,2 @@
 # JavaScript-Urdu
-This repository consists of teh content learnt/practised during javascript course from Youtube...
+Code repo for JavaScript Series at YouTube Channel
